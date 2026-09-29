@@ -1,0 +1,19 @@
+# Meeting Copilot Support
+
+> Public support and legal pages for Meeting Copilot.
+
+Last reviewed: 2026-09-29
+
+## Public pages
+
+- Support: https://p1xel32.github.io/cch-support/
+- Privacy: https://p1xel32.github.io/cch-support/privacy.html
+- Terms: https://p1xel32.github.io/cch-support/terms.html
+
+## Scope
+
+This repository hosts public support, privacy, and terms pages for App Store and user-support purposes.
+
+The application source and service implementation are maintained separately. Do not infer internal architecture, model providers, subscription implementation, or security behavior from this support repository alone.
+
+For support contact details, use the currently published support page rather than copying stale addresses from secondary sources.
